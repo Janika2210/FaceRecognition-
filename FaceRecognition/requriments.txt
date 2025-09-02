@@ -1,0 +1,7 @@
+Required pacakages
+
+face_recognition
+opencv-python
+numpy
+pickle-mixin
+click     # for CLI tool
